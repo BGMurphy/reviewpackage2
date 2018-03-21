@@ -1,0 +1,84 @@
+
+#display{
+    position:absolute;
+    top:0px;
+    left:0px;
+    width:100vw;
+}
+
+#background, .background{
+    height:300px;
+    position:relative;
+    width:100%;
+    display:inline-block;
+}
+
+#title, .title{
+    position:absolute;
+    left:10%;
+    top:10%;
+    border-bottom: 2px solid gray;
+    font-size:25px;
+}
+
+#description, .description{
+    position:absolute;
+    left:10%;
+    top:20%;
+    font-size:16px;
+    padding-top:5px;
+}
+
+#controls{
+    bottom:0px;
+    right:0px;
+    left:0px;
+    margin:auto;
+    position:fixed;
+    width:100px;
+    height:30px;
+    text-align:center;
+    z-index:9999999999999999999;
+}
+
+#menu{
+    width:100%;
+    height:30px;
+}
+
+.textbox{
+    width:100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
